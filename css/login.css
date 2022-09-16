@@ -1,0 +1,14 @@
+body {
+    background-color: aqua;
+    }
+    
+    #for {
+        background-color: rgb(19, 133, 133);
+        margin-left: 10px;
+        margin-right: auto; 
+        height: 600px;
+        min-height: 600px;
+        margin-left: auto;
+        width:500px ;
+        
+    }

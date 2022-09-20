@@ -1,14 +1,30 @@
-body {
-    background-color: aqua;
-    }
+body{
+    background-image: url(../img/junina.jpg);
+    background-repeat: no-repeat;
+    background-size: 100vw 100vh;
+}
+#jun {
     
+     
+    height: 200px;
+    min-height: 700px;
+    margin-left: auto;
+    width:1580px ;
+    
+
+
+}
     #for {
-        background-color: rgb(19, 133, 133);
-        margin-left: 10px;
+        margin-top: 80px;
+        background-color: rgba(19, 133, 105,0.5);
         margin-right: auto; 
-        height: 600px;
-        min-height: 600px;
+        height: 200px;
+        min-height: 440px;
         margin-left: auto;
-        width:500px ;
+        width:480px ;
         
+    }
+
+    label{
+        font-size: 35px;
     }

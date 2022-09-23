@@ -1,4 +1,17 @@
-#inicio {
+body {
+    background-color:rgb(255, 253, 158);
+}
 
-    background-image:('../Imagens/img pagina inicial.jpg');
+
+
+#imgm{
+    width: 1000px ;
+    height: 300px;
+    margin-left: 400px;
+}
+
+#hi {
+
+margin-top: 80px;
+
 }

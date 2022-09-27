@@ -11,6 +11,15 @@ body {
     margin-left: 25%;
 }
 
+#t2 {
+
+    margin-top: 5%;
+    height: 100px;
+    width: 630px;
+    margin-left: 25%;
+
+}
+
 #img {
 
     margin-top: 60px;
@@ -27,5 +36,9 @@ body {
     height: 170px;
     min-height: 320px;
     width:320px ;
+}
+
+#br {
+    color: #ff6500;
 }
 

@@ -4,7 +4,7 @@ body {
 }
 
 #h {
-
+    color: #57c76b;
     margin-left: 50px;
     margin-top: 20px;
 }
@@ -17,4 +17,24 @@ body {
 
 #br {
     color: #ff6500;
+}
+
+#h1 {
+    
+    height: 360px;
+    width: 1335px ;
+    margin-left: 10px;
+    margin-top: 2%;
+}
+
+#h2 {
+
+    margin-left: 50px; 
+    margin-top: 2%;
+}
+
+#h3 {
+
+    margin-left: 50px; 
+    margin-top: 1%;  
 }
